@@ -7,8 +7,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/turnage/graw"
-	"github.com/turnage/graw/reddit"
+	"github.com/brkao/graw"
+	"github.com/brkao/graw/reddit"
 	"gopkg.in/alecthomas/kingpin.v2"
 )
 
